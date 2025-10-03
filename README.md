@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 สวัสดีครับ ผมชื่อ... (ใส่ชื่อเล่นของคุณที่นี่)
 
-<!--
-**Aom-666/Aom-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### (แนะนำตัว)
+- 🔭 ผมกำลังสนใจเกี่ยวกับ Frontend Development, UI/UX Design, Web Develop
+- 🌱 ตอนนี้กำลังฝึกเขียนภาษา JavaScript, HTML, CSS
+- 📫 ติดต่อผมได้ที่ oomsin973@gmail.com
+<br/>
 
-Here are some ideas to get you started:
+---
+### 🛠️ ทักษะและเครื่องมือ (Skills & Tools)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <strong>Frontend Development:</strong><br/><br/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="45" height="45"/>
+  </a>
+</p>
+
+<p align="left">
+  <strong>UI/UX Design:</strong><br/><br/>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> 
+  </a>
+</p>
+
+---
