@@ -1,6 +1,5 @@
 # 👋 สวัสดีครับ ผมชื่อ ออม
 
-
 - 🔭 ผมกำลังสนใจเกี่ยวกับ Frontend Development, UI/UX Design, Web Development
 - 🌱 ตอนนี้กำลังฝึกเขียนภาษา JavaScript, HTML, CSS
 - 📫 ติดต่อผมได้ที่ oomsin973@gmail.com
@@ -34,5 +33,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> 
   </a>
 </p>
-
----
