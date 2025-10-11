@@ -9,7 +9,7 @@
 
 ### 🚀 Who Are You Admin Panel
 
-<img src="[https://github.com/user-attachments/assets/0c025a46-46f7-4686-b5e5-6fd7db249f70]" alt="Cosmetic Admin Panel Screenshot" width="700"/>
+<img src="[https://img5.pic.in.th/file/secure-sv1/Screenshot-2025-10-11-164057.png]" alt="Cosmetic Admin Panel Screenshot" width="700"/>
 
 <p>
   <em>
