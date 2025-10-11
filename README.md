@@ -7,6 +7,31 @@
 - 📫 ติดต่อผมได้ที่ oomsin973@gmail.com
 <br/>
 
+### 🚀 Who Are You Admin Panel
+
+<img src="[https://github.com/user-attachments/assets/0c025a46-46f7-4686-b5e5-6fd7db249f70]" alt="Cosmetic Admin Panel Screenshot" width="700"/>
+
+<p>
+  <em>
+    พัฒนา Admin Dashboard สำหรับร้านเครื่องสำอาง เพื่อให้แอดมินสามารถจัดการข้อมูลสินค้า, สต็อก, ดูสถิติภาพรวม, และติดตามกิจกรรมล่าสุดได้อย่างสะดวกและรวดเร็ว
+  </em>
+</p>
+
+**✨ ความสามารถหลัก (Key Features):**
+<ul>
+  <li>หน้า Dashboard สรุปข้อมูลสำคัญ</li>
+  <li>ระบบจัดการสินค้า (CRUD)</li>
+  <li>ระบบติดตามกิจกรรมล่าสุดของแอดมิน</li>
+</ul>
+
+**🛠️ เทคโนโลยีที่ใช้ (Tech Stack):**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
 ---
 ### 🛠️ ทักษะและเครื่องมือ (Skills & Tools)
 
